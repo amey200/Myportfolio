@@ -454,7 +454,7 @@ a:hover{
     }
 
     #home .tagline {
-        font-size: 14px;
+        font-size: 20px;
         letter-spacing: 1.2px;
     }
 
@@ -642,6 +642,7 @@ a:hover{
     padding-top: 5px;
     margin: 0;
 }
+
 
 /*--------------------------------------------------------------
 # Tools Section
