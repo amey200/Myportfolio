@@ -41,37 +41,6 @@ a:hover{
     color: var(--secondary-color);
 }
 
-/* Dark Mode */
-[data-bs-theme="dark"] {
-    position: relative;
-    color: rgb(255, 255, 255/1);
-    z-index: 0;
-}
-
-[data-bs-theme="dark"]::before {
-    content: "";
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: #000 url(https://amey200.github.io/Myportfolio/assets/images/dark-bg.webp) 50% no-repeat;
-    background-size: cover;
-    filter: brightness(50%);
-    -webkit-filter: brightness(50%);
-    z-index: -1;
-}
-
-/* Dark Mode styles */
-[data-bs-theme="dark"] {
-    --text-color: #fff;
-    --muted-text: #9a9a9a;
-    --bg-color: #212121;
-    --btn-color: #fff;
-    --offcanvas-bg: rgba(0,0,0,0.9);
-    --offcanvas-border-color: rgba(255, 255, 255, 0.2);
-}
-
 /* Light Mode */
 [data-bs-theme="light"] {
     position: relative;
@@ -81,7 +50,7 @@ a:hover{
 
 [data-bs-theme="light"]::before {
     content: "";
-    position: fixed;
+    position: fixed
     top: 0;
     left: 0;
     width: 100%;
