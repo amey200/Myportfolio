@@ -444,7 +444,6 @@ a:hover{
 
 #things-i-love {
     padding: 90px 0px;
-    background-image: url(https://amey200.github.io/Myportfolio/assets/images/grid.png);
     background-size: contain;
     min-height: 100vh;
 }
@@ -498,7 +497,6 @@ a:hover{
 --------------------------------------------------------------*/
 #about{
     padding: 100px 0px;
-    background-image: url(https://amey200.github.io/Myportfolio/assets/images/grid.png);
     background-size: contain;
     min-height: 100vh;
 }
@@ -619,7 +617,6 @@ a:hover{
 
 #tools{
     padding: 100px 0px 80px 0px;
-    background-image: url(/assets/images/grid.png);
     background-size: contain;
     min-height: 100vh;
 }
@@ -664,7 +661,6 @@ a:hover{
 #projects{
     padding: 100px 0px 80px 0px;
     min-height: 100vh;
-    background-image: url(https://amey200.github.io/Myportfolio/assets/images/grid.png);
     background-size: contain;
 }
 
@@ -781,7 +777,6 @@ a:hover{
 #testimonials {
     padding: 100px 0px;
     min-height: 100vh;
-    background-image: url(https://amey200.github.io/Myportfolio/assets/images/grid.png);
     background-size: contain;
 }
 
@@ -870,7 +865,6 @@ a:hover{
 #blogs{
     padding: 100px 0px;
     min-height: 100vh;
-    background-image: url(https://amey200.github.io/Myportfolio/assets/images/grid.png);
     background-size: contain;
 }
 
@@ -941,7 +935,6 @@ a:hover{
 #contact{
     padding: 100px 0;
     min-height: 100vh;
-    background-image: url(https://amey200.github.io/Myportfolio/assets/images/grid.png);
     background-size: contain;
 }
 
